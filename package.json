@@ -1,7 +1,7 @@
 {
-  "homepage": "https://rahul-10.github.io/movie_list",
   "name": "movies_list",
   "version": "0.1.0",
+  "homepage": "https://rahul-10.github.io/movie_list/",
   "private": true,
   "dependencies": {
     "react": "^16.8.6",
